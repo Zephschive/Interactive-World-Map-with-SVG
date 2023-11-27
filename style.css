@@ -1,0 +1,27 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+body
+{
+    background-color: rgb(50, 50, 68)
+
+}
+svg
+{
+    
+position: relative;
+left: 20%;
+bottom: 50%;
+}
+
+svg path
+{
+    cursor: pointer;
+}
+svg path:hover
+{
+    fill: crimson;
+}
